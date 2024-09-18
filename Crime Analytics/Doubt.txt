@@ -1,0 +1,4 @@
+Iss assignment ko apne GitHub pr upload krke iska link upload krna hai
+
+Agr tumhara apna GitHub account nhi hai toh tum ye use kr skte ho :
+https://github.com/Priyanshu2773/BDE-5/blob/main/Crime-Analytics-checkpoint.ipynb
