@@ -1,0 +1,2 @@
+
+After uploading the capstone pdf, you may encounter a message indicating that you have failed. In such a case, look for an option labeled "Review by Peers" below the message. Selecting this option can help you successfully pass the module.
